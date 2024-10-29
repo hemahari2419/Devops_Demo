@@ -1,7 +1,9 @@
-Advance web development Laboratory CAT-2 Assignment
-Topic: Choose Topics from Unit-3
-Submit your assignment by tomorrow
+Advance web development Laboratory CAT-2 Assignment Topic: Choose Topics from
+Unit-3 Submit your assignment by tomorrow
 
 
 Welcome to our class
+
+
+Client-side scripting language Server-side scripting language
 
